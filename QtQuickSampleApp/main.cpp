@@ -16,7 +16,7 @@
 
 #include <QtGui/QGuiApplication>
 #include "qtquick2applicationviewer.h"
-#include "MyCalculatorViewModel.h"
+//#include "MyCalculatorViewModel.h"
 #include <QQmlContext>
 
 int main(int argc, char *argv[])
